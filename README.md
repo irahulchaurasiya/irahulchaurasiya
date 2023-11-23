@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Rahul Chaurasiya</h1>
 <h3 align="center">A passionate backend developer from Indore, Madhya Pradesh, India</h3>
 
+# 🚀 Passionate Software Developer
+
+## Welcome to my coding journey! I am Rahul Chaurasiya, an enthusiastic software developer on a relentless quest to explore the fascinating realms of technology. My focus lies at the dynamic intersection of software development and cybersecurity. Currently immersed in an exciting phase of continuous learning, I'm dedicated to honing my skills and leveraging expertise in Java, Spring Boot, MySQL, Object-Oriented Programming (OOP), Data Structures and Algorithms (DSA), HTML, and CSS.I thrive in the collaborative nature of software development. Cherishing the opportunity to work alongside professionals from diverse disciplines, the intricate interplay of people and departments in the software development lifecycle allows me not only to contribute technical skills but also build meaningful relationships and learn from a wealth of experiences in each collaboration.In this learning phase of my life, I am driven by the pursuit of knowledge and the ambition to carve a fulfilling career in software development. My curiosity extends beyond the code, encompassing the ever-evolving landscape of cybersecurity.
+
 - 🔭 I’m currently working on **Spring Boot**
 
 - 🌱 I’m currently learning **React**
@@ -10,6 +14,8 @@
 - 📫 How to reach me **rahulchaurasiya456@gmail.com**
 
 - ⚡ Fun fact **I love travelling, gaming and playing cricket and volleyball**
+- 
+- 🎸 Would love: **To learn cooking**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
