@@ -13,6 +13,11 @@ Welcome to my coding journey! I am an enthusiastic software developer on a relen
 - **Version Control**: Git
 - **Other Tools**: Maven, IntelliJ IDEA
 
+  ## 💼 Experience
+- Geekster (January 2023 - Present)
+- Position: Trainee Software Developer
+  
+
 ##  🎓 Education
 - Medi-Caps University, Indore
 - Degree: BCA
