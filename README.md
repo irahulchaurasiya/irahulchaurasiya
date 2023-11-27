@@ -18,10 +18,6 @@ Welcome to my coding journey! I am an enthusiastic software developer on a relen
 - Position: Trainee Software Developer
   
 
-##  🎓 Education
-- Medi-Caps University, Indore
-- Degree: BCA
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=irahulchaurasiya&label=Profile%20views&color=0e75b6&style=flat" alt="irahulchaurasiya" /> </p>
 
 - 🔭 I’m currently working on **Spring Boot**
