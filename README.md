@@ -2,7 +2,6 @@
 <h3 align="center">A passionate software developer from Indore , India</h3>
 
 <br>
-<img  align="right" width="450"  alt="coding" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" alt="Image Description">
 
 Welcome to my coding journey! I am an enthusiastic software developer on a relentless quest to explore the fascinating realms of technology. My focus lies at the dynamic intersection of software development and cybersecurity. Currently immersed in an exciting phase of continuous learning, I'm dedicated to honing my skills and leveraging expertise in Java, Spring Boot, MySQL, Object-Oriented Programming (OOP), Data Structures and Algorithms (DSA), HTML, CSS & JavaScript.I thrive in the collaborative nature of software development. Cherishing the opportunity to work alongside professionals from diverse disciplines, the intricate interplay of people and departments in the software development lifecycle allows me not only to contribute technical skills but also build meaningful relationships and learn from a wealth of experiences in each collaboration.In this learning phase of my life, I am driven by the pursuit of knowledge and the ambition to carve a fulfilling career in software development. My curiosity extends beyond the code, encompassing the ever-evolving landscape of cybersecurity.
 
